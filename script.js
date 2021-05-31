@@ -7,6 +7,7 @@ snake [0] = {
     y: 8 * box
 }
 
+
 function criarBG() {
     context.fillStyle = "lightgreen";
     context.fillRect(0, 0, 16 * box, 16 * box)
